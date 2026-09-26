@@ -2,6 +2,10 @@
 
 I'm a **Computer Science student**, developer, and data enthusiast interested in **data analysis, machine learning, software development, and complex systems**.
 
+## ✨ A little about me
+
+I'm not always the smartest person in the room—and that's okay. I'm curious, persistent, and always willing to learn. I may not know everything yet, but I keep showing up, asking questions, and trying again until I figure it out. 🚀
+
 ## 🚀 What I'm working on
 
 - 📊 Data analysis and visualization with Python and Jupyter
