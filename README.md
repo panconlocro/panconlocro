@@ -32,11 +32,16 @@ I'm a developer and data enthusiast interested in **data analysis, machine learn
 - **[DeteccionDeAnomaliasYSpam_GO](https://github.com/panconlocro/DeteccionDeAnomaliasYSpam_GO)** — Anomaly and spam detection project.
 - **[Toast Club PMV](https://github.com/panconlocro/Toast-Club-PMV)** — Minimum viable product developed with JavaScript.
 
-## 📈 GitHub stats
+## 📚 Areas I'm exploring
 
-![Panconlocro's GitHub stats](https://github-readme-stats.vercel.app/api?username=panconlocro&show_icons=true&theme=tokyonight)
+- Data-driven approaches to public health and citizen security
+- Global trade and economic analysis
+- Network science and graph-based modeling
+- Practical machine learning for real-world problems
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panconlocro&layout=compact&theme=tokyonight)
+## 🗂️ Explore my work
+
+Most of my projects are available in the **[repositories section](https://github.com/panconlocro?tab=repositories)** of my GitHub profile. New experiments, analyses, and applications will be added there over time.
 
 ## 📫 Connect with me
 
