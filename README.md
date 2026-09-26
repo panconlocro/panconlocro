@@ -4,7 +4,7 @@ I'm a **Computer Science student**, developer, and data enthusiast interested in
 
 ## ✨ A little about me
 
-I'm not always the smartest person in the room—and that's okay. I'm curious, persistent, and always willing to learn. I may not know everything yet, but I keep showing up, asking questions, and trying again until I figure it out. 🚀
+I'm a Computer Science student figuring things out one project at a time. I don't know everything, but I'm always learning, building, and trying again when things break.
 
 ## 🚀 What I'm working on
 
