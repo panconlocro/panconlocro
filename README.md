@@ -46,6 +46,7 @@ Most of my projects are available in the **[repositories section](https://github
 ## 📫 Connect with me
 
 - GitHub: [@panconlocro](https://github.com/panconlocro)
+- Email: [rosamariarv10@gmail.com](mailto:rosamariarv10@gmail.com)
 
 ---
 
